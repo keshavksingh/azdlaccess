@@ -1,0 +1,7 @@
+fastapi[all]
+python-dotenv
+azure-storage-file-datalake
+azure-identity
+fastapi-auth
+azure-mgmt-resource
+azure-storage-file
